@@ -200,3 +200,4 @@ ls --color=auto
 cd header.png images
 cp hedaer.png images
 cp header.png images
+cp footer.jpeg images
