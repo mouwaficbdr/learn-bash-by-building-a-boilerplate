@@ -188,3 +188,4 @@ ls --color=auto
 mkdir images
 ls*
 ls --color=auto
+cp background.jpg images
