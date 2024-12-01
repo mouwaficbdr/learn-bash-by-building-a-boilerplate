@@ -184,3 +184,4 @@ touch CodeAlly.svg
 touch CodeRoad.svg
 touch freeeCodeCamp.svg
 touch freeCodeCamp.svg
+ls --color=auto
