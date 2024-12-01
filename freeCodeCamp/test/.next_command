@@ -189,3 +189,4 @@ mkdir images
 ls*
 ls --color=auto
 cp background.jpg images
+cd images
