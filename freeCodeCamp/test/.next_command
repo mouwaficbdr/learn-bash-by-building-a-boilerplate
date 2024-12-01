@@ -166,3 +166,4 @@ touch index.html
 touc styles.css
 touch styles.css
 ls --color=auto
+touch index.js
