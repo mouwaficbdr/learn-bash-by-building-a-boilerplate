@@ -316,3 +316,5 @@ mv website website-booilerplate
 mv website website-boilerplate
 mv website-booilerplate website-boilerplate
 ls --color=auto
+copy --help
+cp --help
