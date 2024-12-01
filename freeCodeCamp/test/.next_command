@@ -289,3 +289,6 @@ touch client/assets/fonts/lato-light.ttf
 __vsc_prompt_cmd_original
 find
 rm --help
+rmdir -r fonts
+ls --color=auto
+rm -r fonts
