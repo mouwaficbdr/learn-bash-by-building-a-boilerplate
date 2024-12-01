@@ -288,3 +288,4 @@ touch client/assets/fonts/lato-bold.ttf
 touch client/assets/fonts/lato-light.ttf
 __vsc_prompt_cmd_original
 find
+rm --help
